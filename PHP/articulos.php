@@ -11,7 +11,6 @@
 </head>
 
 <body>
-
     <nav class="navbar navbar-dark bg-dark">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent"
             aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,7 +19,7 @@
     </nav>
     <header>
         <div class="container">
-            <h1 class="text-center">TIENDA</h1>
+            <h1 class="text-center">ARTICULOS PARA ESTUDIANTES</h1>
             <hr>
         </div>
     </header>
@@ -32,23 +31,23 @@
 
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Pokemon Azul</h3>
-                            <img class="item-image" src="../img/pokemon-azul.jpg">
+                            <h3 class="item-title">KIT COMPLETO PARA UNIVERSITARIOS</h3>
+                            <img class="item-image" src="../img/cpu i7.jpeg">
 
                             <div class="item-details">
-                                <h4 class="item-price">9.99€</h4>
+                                <h4 class="item-price">$ 1.500</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Pokemon Rojo</h3>
+                            <h3 class="item-title">LAPTOP GAMING</h3>
 
-                            <img class="item-image" src="../img/pokemon-rojo.jpg">
+                            <img class="item-image" src="../img/HP-i7.jpg">
 
                             <div class="item-details">
-                                <h4 class="item-price">9.99€</h4>
+                                <h4 class="item-price">$ 950</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
@@ -58,24 +57,24 @@
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Pokemon Verde</h3>
+                            <h3 class="item-title">IMPRESORA TINTA CONTINUA</h3>
 
-                            <img class="item-image" src="../img/pokemon-verde.jpg">
+                            <img class="item-image" src="../img/impresora.jpg">
 
                             <div class="item-details">
-                                <h4 class="item-price">9.99€</h4>
+                                <h4 class="item-price">$ 230</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Pokemon Plata</h3>
+                            <h3 class="item-title">MONITOR 4K</h3>
 
-                            <img class="item-image" src="../img/pokemon-plata.jpg">
+                            <img class="item-image" src="../img/monitor.jpeg">
 
                             <div class="item-details">
-                                <h4 class="item-price">19.99€</h4>
+                                <h4 class="item-price">$ 350</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
@@ -84,22 +83,22 @@
                 <div class="row">
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Pokemon Oro</h3>
+                            <h3 class="item-title">MANTENIMIENTO A TUS EQUIPOS</h3>
 
-                            <img class="item-image" src="../img/pokemon-oro.jpg">
+                            <img class="item-image" src="../img/soporte.jpg">
                             <div class="item-details">
-                                <h4 class="item-price">19.99€</h4>
+                                <h4 class="item-price">$ 20</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 col-md-6">
                         <div class="item shadow mb-4">
-                            <h3 class="item-title">Sonic</h3>
+                            <h3 class="item-title">TABLETA GRAFICA</h3>
 
-                            <img class="item-image" src="../img/sonic.jpg">
+                            <img class="item-image" src="../img/tableta.jpg">
                             <div class="item-details">
-                                <h4 class="item-price">6.99€</h4>
+                                <h4 class="item-price">$70</h4>
                                 <button class="item-button btn btn-primary addToCart">AÑADIR AL CARRITO</button>
                             </div>
                         </div>
@@ -141,7 +140,7 @@
                 <div class="col-12">
                     <div class="shopping-cart-total d-flex align-items-center">
                         <p class="mb-0">Total</p>
-                        <p class="ml-4 mb-0 shoppingCartTotal">0€</p>
+                        <p class="ml-4 mb-0 shoppingCartTotal">$ 0</p>
                         <div class="toast ml-auto bg-info" role="alert" aria-live="assertive" aria-atomic="true"
                             data-delay="2000">
                             <div class="toast-header">
@@ -194,7 +193,7 @@
 
     <!-- START FOOTER -->
     <footer class="bg-dark p-3 mt-5">
-        <p class="text-center m-0 text-muted">Tienda video juegos</p>
+        <p class="text-center m-0 text-muted">¡TODO A TU ALCANCE!</p>
     </footer>
     <!-- END FOOTER -->
 

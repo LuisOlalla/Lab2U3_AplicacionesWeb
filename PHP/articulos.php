@@ -213,7 +213,6 @@
         crossorigin="anonymous"></script>
 
     <script src="../JS/tienda.js"></script>
-
 </body>
 
 </html>
